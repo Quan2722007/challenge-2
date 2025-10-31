@@ -1,5 +1,5 @@
 html {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
   font-weight: 500;
 }
 body {
@@ -30,7 +30,6 @@ body {
       border-radius: 20px;
       display: flex;
       position: absolute;
-      left: 66px;
       width: max-content;
       height: 100%;
       transition: 0.5s;
